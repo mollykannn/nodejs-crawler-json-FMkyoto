@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-web-crawler-json-FMkyoto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "superagent": "^4.1.0",
+    "superagent-throttle": "^1.0.1"
+  }
+}
