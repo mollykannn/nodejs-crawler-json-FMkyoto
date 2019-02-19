@@ -24,7 +24,7 @@ const endTime = "22:00:00";
 
 運行 (Run)
 ```shell
-npm run serve
+node index.js
 ```
 
 
