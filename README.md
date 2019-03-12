@@ -1,19 +1,20 @@
 # nodejs-crawler-json-FMkyoto
 
-This program can set the date and time to crawl the song list on [On Air Song List | FM京都 89.4 FM](http://fm-kyoto.jp/nowonair/).
+This program can set the date and time to crawl the song list [On Air Song List | FM京都 89.4 FM](http://fm-kyoto.jp/nowonair/) to json format.
 
 一個十分普通的爬蟲程式，就是為了爬回近幾年每個星期一Flag radio (くるり) 的歌單。
 
 
-## 安裝 (Install)
+## Install (安裝)
 
 ```shell
 npm install
 ```
 
-## 使用方法 (Usage)
+## Usage (使用方法)
 
-編輯index.js (Edit index.js)
+Edit index.js
+編輯 index.js
 ```shell
 const startDate = "2018-01-01";
 const endDate = "2019-01-01";
