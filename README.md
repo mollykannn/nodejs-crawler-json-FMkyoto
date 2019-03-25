@@ -16,8 +16,8 @@ npm install
 Edit index.js
 
 ```shell
-const startDate = "2018-01-01";
-const endDate = "2019-01-01";
+const startDate = "2019-01-01";
+const endDate = "2019-02-01";
 const weekly = 1; // 0->Sun, 1->Mon..... 6->Sat
 const startTime = "21:00:00";
 const endTime = "22:00:00";
@@ -28,7 +28,7 @@ Run
 node index.js
 ```
 
-Output
+Output - In songList.json
 ```shell
 [
     [{
